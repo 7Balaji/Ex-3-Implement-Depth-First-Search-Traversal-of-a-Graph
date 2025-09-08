@@ -78,4 +78,5 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 <img width="930" height="49" alt="Screenshot 2025-09-08 143854" src="https://github.com/user-attachments/assets/a2bda29f-24dc-42fe-9d64-e603d2aaf306" />
 
 **Result:**
+
 Thus the program to implement depth first search of a traversal graph has been executed sucessfully.
