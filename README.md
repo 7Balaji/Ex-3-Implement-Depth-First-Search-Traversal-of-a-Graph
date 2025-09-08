@@ -67,11 +67,13 @@ D E
 Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'], 'E': ['B', 'C', 'D']}
 
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
-###Input:
+
+
+### Input:
 
 <img width="892" height="152" alt="Screenshot 2025-09-08 143847" src="https://github.com/user-attachments/assets/3facd047-a2d7-4455-93e1-9a8b73db38cc" />
 
-###Output:
+### Output:
 
 <img width="930" height="49" alt="Screenshot 2025-09-08 143854" src="https://github.com/user-attachments/assets/a2bda29f-24dc-42fe-9d64-e603d2aaf306" />
 
