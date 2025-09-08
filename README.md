@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:Balaji R**
 
-**Register Number:**
+**Register Number:2305001004**
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
@@ -67,5 +67,10 @@ D E
 Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'], 'E': ['B', 'C', 'D']}
 
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
+Input:
+<img width="892" height="152" alt="Screenshot 2025-09-08 143847" src="https://github.com/user-attachments/assets/3facd047-a2d7-4455-93e1-9a8b73db38cc" />
+Output:
+<img width="930" height="49" alt="Screenshot 2025-09-08 143854" src="https://github.com/user-attachments/assets/a2bda29f-24dc-42fe-9d64-e603d2aaf306" />
 
 **Result:**
+Thus the program to implement depth first search of a traversal graph has been executed sucessfully.
